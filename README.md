@@ -1,3 +1,3 @@
 # Software-agents-versus-humans-Game2
 
-Game2 looks at the coalition formation where for multiple core game case. The analysis compares rates of coalition formation between a special software agent versus an actual human player. The model employs a solution concept from cooperative game theory called core and agent-based modeling approaches. The results of the analysis have similar pattern as the Game 1 (single core coalition structure case). The results confirm some humans reach the core coalition faster in the earlier rounds when compared to the special software agent or the other computerized agents. This work has been published in Simulation: Transactions of the Society for Modeling and Simulation International journal.
+
